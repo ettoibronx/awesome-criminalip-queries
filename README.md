@@ -21,8 +21,7 @@ So I wouldn't recommend trying to log in with these results and accessing expose
   
   
 ## 1. Malicious  
-  
-Clone repository:  
+   
   -   **[_Search Query :_ title: "DeadBolt"](https://www.criminalip.io/asset/search?query=title:%20%22DeadBolt%22)**
 -   **_[Search Query : tag: "Malicious"](https://www.criminalip.io/asset/search?query=tag:%20%22Malicious%22)_**
 -   **_[Search Query : title: "Your files have been locked"](https://www.criminalip.io/asset/search?query=title:%20%22Your%20files%20have%20been%20locked%22)_**
